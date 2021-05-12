@@ -4,6 +4,7 @@ I'm a CSE student at UNSW. I love learning and exploring new technologies!
 
 [![Linkedin Badge](https://img.shields.io/badge/-ericzhu98-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/ericzhu98/)
 [![Twitter Badge](https://img.shields.io/badge/-ericzhu98-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/ericzhu98)
+[![HackerRank Badge](https://img.shields.io/badge/-ericzhu98-2EC866?logo=hackerrank&logoColor=white&style=flat)](https://www.hackerrank.com/ericzhu98)
 
 ### Languages I'm currently learning:
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat-square)
