@@ -50,4 +50,48 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 ## This week I spent my time on:
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 162 Contributions in the Year 2021
+ > 
+> 📦 52.8 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 12 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        4 repos             ██████████████░░░░░░░░░░░   57.14% 
+Prolog                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+PLpgSQL                  1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ericzhu98/ericzhu98/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
