@@ -46,3 +46,8 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 ![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
 ![Canva Badge](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat-square)
+
+## This week I spent my time on:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
