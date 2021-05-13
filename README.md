@@ -1,4 +1,4 @@
-## Hi there!👋
+# Hi there!👋
 
 I'm a student @unsw working on expanding my knowledgebase. I love learning and exploring new technologies! 
 
@@ -8,7 +8,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 [![Twitter Badge](https://img.shields.io/badge/-ericzhu98-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/ericzhu98)
 [![HackerRank Badge](https://img.shields.io/badge/-ericzhu98-2EC866?logo=hackerrank&logoColor=white&style=flat)](https://www.hackerrank.com/ericzhu98)
 
-### My values
+## My values
 
 :blue_heart: Trust and empathy
 
@@ -18,19 +18,19 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 
 :heart: Neverending curiosity
 
-### Languages I'm currently learning:
+## Languages I'm currently learning:
 
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 
-### Tools that I use:
+## Tools that I use:
 
 ![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)
 ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 
-### I want to learn:
+## I want to learn:
 
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat-square)
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
