@@ -50,20 +50,6 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 ## This week I spent my time on:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 162 Contributions in the Year 2021
- > 
-> 📦 52.8 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 12 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -88,10 +74,6 @@ Python                   1 repo              ███░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ericzhu98/ericzhu98/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
