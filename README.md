@@ -40,7 +40,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Django Badge](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-![React.js Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![React.js Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
