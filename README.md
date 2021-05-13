@@ -10,13 +10,15 @@ I'm a CSE student at UNSW. I love learning and exploring new technologies!
 
 ### Languages I'm currently learning:
 
-![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat-square)
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
-![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat-square)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+
+### Languages I want to learn:
+![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat-square)
+![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat-square)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 
 ### Tools that I use:
