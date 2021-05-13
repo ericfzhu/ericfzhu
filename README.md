@@ -10,10 +10,10 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 
 ### My values
 
-:blue_heart: Trust
+:blue_heart: Trust and empathy
 :purple_heart: Expression of myself
 :green_heart: Loyalty
-:heart: Neverending curiosity for the world's mysteries
+:heart: Neverending curiosity
 
 ### Languages I'm currently learning:
 
