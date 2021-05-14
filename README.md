@@ -25,6 +25,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 ![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat-square)
 
 ## Tools that I use:
 
@@ -33,7 +34,6 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 
 ## I want to learn:
 
-![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat-square)
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
