@@ -31,6 +31,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 
 ![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)
 ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
 
 ## I want to learn:
 
