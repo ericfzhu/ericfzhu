@@ -1,6 +1,6 @@
 # Hi there!👋
 
-I'm a student @unsw working on expanding my knowledgebase. I love learning and exploring new technologies! 
+I'm a student @unsw working on expanding my knowledgebase. I love learning and exploring new technological developments! 
 
 [//]: # (Following badges were made with help from https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
 
