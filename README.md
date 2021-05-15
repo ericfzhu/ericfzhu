@@ -11,7 +11,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 
 ## My values
 
-:blue_heart: Trust and empathy of others
+:blue_heart: Trust and empathy in others
 
 :purple_heart: Free expression of myself
 
