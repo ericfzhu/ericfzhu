@@ -8,6 +8,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 [![Twitter Badge](https://img.shields.io/badge/-ericzhu98-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/ericzhu98)
 [![HackerRank Badge](https://img.shields.io/badge/-ericzhu98-2EC866?logo=hackerrank&logoColor=white&style=flat)](https://www.hackerrank.com/ericzhu98)
 [![LeetCode Badge](https://img.shields.io/badge/-ericzhu98-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/ericzhu98/)
+[![freeCodeCamp Badge](https://img.shields.io/badge/-ericzhu98-0A0A23?logo=freecodecamp&logoColor=white&style=flat)](https://www.freecodecamp.org/ericzhu98)
 
 ## My values
 
