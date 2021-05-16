@@ -39,7 +39,6 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
 ![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
-![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Django Badge](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
 ![React.js Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
