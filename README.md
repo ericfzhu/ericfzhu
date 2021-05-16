@@ -1,8 +1,8 @@
 # Hi there!👋
 
-I'm a student @unsw working on expanding my knowledgebase. I love learning and exploring new technological developments! 
+I'm a student @unsw working on expanding my knowledgebase. I love learning and exploring new technological developments!
 
-[//]: # (Following badges were made with help from https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
+[//]: # "Following badges were made with help from https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b"
 
 [![Linkedin Badge](https://img.shields.io/badge/-ericzhu98-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/ericzhu98/)
 [![Twitter Badge](https://img.shields.io/badge/-ericzhu98-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/ericzhu98)
@@ -52,39 +52,38 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-C                        5 hrs 6 mins        █████████████░░░░░░░░░░░░   53.52% 
-Markdown                 2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.75% 
-Rust                     1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63% 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.58% 
+💬 Programming Languages:
+C                        5 hrs 6 mins        █████████████░░░░░░░░░░░░   53.52%
+Markdown                 2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.75%
+Rust                     1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63%
+TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.58%
 Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
-🐱‍💻 Projects: 
-text-editor-c            4 hrs 47 mins       ████████████░░░░░░░░░░░░░   50.25% 
-the-book                 2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84% 
-rustlings                44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
-ericzhu98                42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
+🐱‍💻 Projects:
+text-editor-c            4 hrs 47 mins       ████████████░░░░░░░░░░░░░   50.25%
+the-book                 2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84%
+rustlings                44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.71%
+ericzhu98                42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.35%
 COMP2521                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.9%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    9 hrs 32 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in C** 
+**I Mostly Code in C**
 
 ```text
-C                        4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-Prolog                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-PLpgSQL                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+C                        4 repos             ██████████░░░░░░░░░░░░░░░   40.0%
+Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0%
+Prolog                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+PLpgSQL                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
-
-
 
 <!--END_SECTION:waka-->
