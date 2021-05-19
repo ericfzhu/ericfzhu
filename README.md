@@ -38,6 +38,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 ## I want to learn:
 
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
 ![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat-square)
