@@ -20,7 +20,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 
 :heart: Neverending curiosity
 
-## Languages I'm currently learning:
+## Languages and frameworks I'm currently learning:
 
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
