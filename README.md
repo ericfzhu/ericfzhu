@@ -28,6 +28,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 ![Postgres Badge](https://img.shields.io/badge/-Postgres-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-07405e?logo=sqlite&logoColor=white&style=flat-square)
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat-square)
+![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat-square)
 ![React Badge](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=2361DAFB&style=flat-square)
 ![Next.js Badge](https://img.shields.io/badge/-NextJs-000000?logo=next-dot-js&style=flat-square)
@@ -42,7 +43,6 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 ## I want to learn:
 
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
 ![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat-square)
