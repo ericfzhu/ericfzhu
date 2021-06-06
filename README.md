@@ -2,8 +2,6 @@
 
 I'm a student @unsw working on expanding my knowledgebase. I love learning and exploring new technological developments!
 
-[//]: # "Following badges were made with help from https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b"
-
 [![Linkedin Badge](https://img.shields.io/badge/-ericzhu98-0A66C2?logo=linkedin&style=flat)](https://linkedin.com/in/ericzhu98/)
 [![Twitter Badge](https://img.shields.io/badge/-ericzhu98-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/ericzhu98)
 [![HackerRank Badge](https://img.shields.io/badge/-ericzhu98-2EC866?logo=hackerrank&logoColor=white&style=flat)](https://hackerrank.com/ericzhu98)
@@ -31,7 +29,6 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat-square)
 ![React Badge](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=2361DAFB&style=flat-square)
-![Next.js Badge](https://img.shields.io/badge/-NextJs-000000?logo=next-dot-js&style=flat-square)
 
 ## Tools that I use:
 
@@ -42,6 +39,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 
 ## I want to learn:
 
+![Next.js Badge](https://img.shields.io/badge/-NextJs-000000?logo=next-dot-js&style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
