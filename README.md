@@ -32,7 +32,8 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 
 ## Tools that I use:
 
-![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
+![WebStorm Badge](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=flat-square)
 ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
 ![Prettier Badge](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white&style=flat-square)
