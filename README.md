@@ -40,14 +40,14 @@ I'm a student @unsw working on expanding my knowledgebase. I love learning and e
 
 ## I want to learn:
 
-![Next.js Badge](https://img.shields.io/badge/-NextJs-000000?logo=next-dot-js&style=flat-square)
+![Next.js Badge](https://img.shields.io/badge/-NextJs-000000?logo=next.js&style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
 ![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat-square)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Django Badge](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat-square)
+![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
