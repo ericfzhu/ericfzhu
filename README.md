@@ -1,6 +1,6 @@
 # Hi there!👋
 
-I'm a student @unsw working on expanding my knowledgebase. I love learning and exploring new technological developments!
+I'm a student @unsw working on expanding my knowledgebase. I love gaining knowledge and exploring new technologies!
 
 [![Linkedin Badge](https://img.shields.io/badge/-ericzhu98-0A66C2?logo=linkedin&style=flat)](https://linkedin.com/in/ericzhu98/)
 [![Twitter Badge](https://img.shields.io/badge/-ericzhu98-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/ericzhu98)
