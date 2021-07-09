@@ -39,7 +39,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love gaining knowle
 ![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
 ![Prettier Badge](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white&style=flat-square)
 
-## I want to learn:
+## I'm interested in exploring:
 
 ![Next.js Badge](https://img.shields.io/badge/-NextJs-000000?logo=next.js&style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
