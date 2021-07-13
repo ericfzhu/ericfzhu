@@ -5,6 +5,13 @@ I'm a student @unsw working on expanding my knowledgebase. I love gaining knowle
 [![Linkedin Badge](https://img.shields.io/badge/-ericzhu98-0A66C2?logo=linkedin&style=flat)](https://linkedin.com/in/ericzhu98/)
 [![Twitter Badge](https://img.shields.io/badge/-ericzhu98-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/ericzhu98)
 [![goodreads Badge](https://img.shields.io/badge/-ericzhu98-372213?logo=goodreads&logoColor=white&style=flat)](https://goodreads.com/ericzhu98)
+[![FreeCodeCamp Badge](https://img.shields.io/badge/-ericzhu98-0A0A23?logo=freecodecamp&logoColor=white&style=flat)](https://freecodecamp.org/ericzhu98)
+[![Kaggle Badge](https://img.shields.io/badge/-ericzhu98-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/ericzhu98)
+[![LeetCode Badge](https://img.shields.io/badge/-ericzhu98-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/ericzhu98/)
+[![HackerRank Badge](https://img.shields.io/badge/-ericzhu98-00EA64?logo=hackerrank&logoColor=white&style=flat)](https://hackerrank.com/ericzhu98)
+[![Microsoft Learn Badge](https://img.shields.io/badge/-ericzhu98-5E5E5E?logo=microsoft&logoColor=white&style=flat)](https://docs.microsoft.com/en-us/users/ericzhu98/)
+[![Google Developers Badge](https://img.shields.io/badge/-ericzhu98-4285F4?logo=google&logoColor=white&style=flat)](https://developers.google.com/profile/u/113561143184655365872)
+
 
 ## My values
 
