@@ -9,8 +9,6 @@ I'm a student @unsw working on expanding my knowledgebase. I love gaining knowle
 [![Kaggle Badge](https://img.shields.io/badge/-ericzhu98-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/ericzhu98)
 [![LeetCode Badge](https://img.shields.io/badge/-ericzhu98-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/ericzhu98/)
 [![HackerRank Badge](https://img.shields.io/badge/-ericzhu98-00EA64?logo=hackerrank&logoColor=white&style=flat)](https://hackerrank.com/ericzhu98)
-[![Microsoft Learn Badge](https://img.shields.io/badge/-ericzhu98-5E5E5E?logo=microsoft&logoColor=white&style=flat)](https://docs.microsoft.com/en-us/users/ericzhu98/)
-[![Google Developers Badge](https://img.shields.io/badge/-ericzhu98-4285F4?logo=google&logoColor=white&style=flat)](https://developers.google.com/profile/u/113561143184655365872)
 
 
 ## My values
