@@ -12,11 +12,11 @@ I'm a student @unsw working on expanding my knowledgebase. I love gaining knowle
 
 ## My values
 
-:blue_heart: Trust and empathy in others
+:blue_heart: Trust and loyalty
 
-:purple_heart: Free expression of myself
+:purple_heart: Always be myself
 
-:green_heart: Loyalty
+:green_heart: Empathy in others
 
 :heart: Neverending curiosity
 
