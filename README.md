@@ -8,7 +8,6 @@ I'm a student @unsw working on expanding my knowledgebase. I love gaining knowle
 [![FreeCodeCamp Badge](https://img.shields.io/badge/-ericzhu98-0A0A23?logo=freecodecamp&logoColor=white&style=flat)](https://freecodecamp.org/ericzhu98)
 [![Kaggle Badge](https://img.shields.io/badge/-ericzhu98-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/ericzhu98)
 [![LeetCode Badge](https://img.shields.io/badge/-ericzhu98-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/ericzhu98/)
-[![HackerRank Badge](https://img.shields.io/badge/-ericzhu98-00EA64?logo=hackerrank&logoColor=white&style=flat)](https://hackerrank.com/ericzhu98)
 
 
 ## My values
@@ -39,7 +38,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love gaining knowle
 ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)
 ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
-![Prettier Badge](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white&style=flat-square)
+![Excel Badge](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
 
 ## I'm interested in exploring:
 
