@@ -21,39 +21,39 @@ I'm a student @unsw working on expanding my knowledgebase. I love gaining knowle
 
 ## Languages and frameworks I'm currently using:
 
-![Python Badge](https://img.shields.io/badge/-Python-14354C?logo=python&logoColor=white&style=flat-square)
-![C Badge](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat-square)
-![Postgres Badge](https://img.shields.io/badge/-Postgres-316192?logo=postgresql&logoColor=white&style=flat-square)
-![SQLite Badge](https://img.shields.io/badge/-SQLite-07405e?logo=sqlite&logoColor=white&style=flat-square)
-![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat-square)
-![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat-square)
-![React Badge](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=2361DAFB&style=flat-square)
-![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![Python Badge](https://img.shields.io/badge/-Python-14354C?logo=python&logoColor=white&style=flat)
+![C Badge](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat)
+![Postgres Badge](https://img.shields.io/badge/-Postgres-316192?logo=postgresql&logoColor=white&style=flat)
+![SQLite Badge](https://img.shields.io/badge/-SQLite-07405e?logo=sqlite&logoColor=white&style=flat)
+![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
+![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat)
+![React Badge](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=2361DAFB&style=flat)
+![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 
 ## Tools that I use:
 
-![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
-![WebStorm Badge](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=flat-square)
-![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)
-![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat-square)
-![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
-![Excel Badge](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat)
+![WebStorm Badge](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=flat)
+![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat)
+![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
+![Excel Badge](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
 
 ## I'm interested in exploring:
 
-![Next.js Badge](https://img.shields.io/badge/-NextJs-000000?logo=next.js&style=flat-square)
-![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
-![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
-![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat-square)
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Django Badge](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Next.js Badge](https://img.shields.io/badge/-NextJs-000000?logo=next.js&style=flat)
+![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
+![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Django Badge](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
