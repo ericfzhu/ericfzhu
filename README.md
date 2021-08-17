@@ -27,9 +27,8 @@ I'm a student @unsw working on expanding my knowledgebase. I love gaining knowle
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-07405e?logo=sqlite&logoColor=white&style=flat)
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat)
-![React Badge](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=2361DAFB&style=flat)
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
 
 ## Tools that I use:
 
@@ -45,7 +44,6 @@ I'm a student @unsw working on expanding my knowledgebase. I love gaining knowle
 ![Next.js Badge](https://img.shields.io/badge/-NextJs-000000?logo=next.js&style=flat)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
-![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
 ![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![Django Badge](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
@@ -54,6 +52,8 @@ I'm a student @unsw working on expanding my knowledgebase. I love gaining knowle
 ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 ![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat)
+![React Badge](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=2361DAFB&style=flat)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
