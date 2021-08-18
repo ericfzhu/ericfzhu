@@ -7,6 +7,7 @@ I'm a student @unsw working on expanding my knowledgebase. I love gaining knowle
 [![goodreads Badge](https://img.shields.io/badge/-ericzhu98-372213?logo=goodreads&logoColor=white&style=flat)](https://goodreads.com/ericzhu98)
 [![Kaggle Badge](https://img.shields.io/badge/-ericzhu98-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/ericzhu98)
 [![LeetCode Badge](https://img.shields.io/badge/-ericzhu98-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/ericzhu98/)
+[![datacamp Badge](https://img.shields.io/badge/-ericzhu98-03EF62?logo=datacamp&logoColor=white&style=flat)](https://datacamp.com/profile/ericzhu98)
 
 
 ## My values
