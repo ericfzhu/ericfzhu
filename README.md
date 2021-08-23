@@ -55,6 +55,7 @@ I'm a student @unsw currently in pursuit of knowledge.
 ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat)
 ![React Badge](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=2361DAFB&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
