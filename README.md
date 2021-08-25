@@ -2,12 +2,12 @@
 
 I'm a student @unsw currently in pursuit of knowledge.
 
-[![Linkedin Badge](https://img.shields.io/badge/-ericzhu98-0A66C2?logo=linkedin&style=flat)](https://linkedin.com/in/ericzhu98/)
-[![Twitter Badge](https://img.shields.io/badge/-ericzhu98-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/ericzhu98)
-[![goodreads Badge](https://img.shields.io/badge/-ericzhu98-372213?logo=goodreads&logoColor=white&style=flat)](https://goodreads.com/ericzhu98)
-[![Kaggle Badge](https://img.shields.io/badge/-ericzhu98-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/ericzhu98)
-[![LeetCode Badge](https://img.shields.io/badge/-ericzhu98-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/ericzhu98/)
-[![datacamp Badge](https://img.shields.io/badge/-ericzhu98-03EF62?logo=datacamp&logoColor=white&style=flat)](https://datacamp.com/profile/ericzhu98)
+[![Linkedin Badge](https://img.shields.io/badge/-ericfzhu-0A66C2?logo=linkedin&style=flat)](https://linkedin.com/in/ericfzhu/)
+[![Twitter Badge](https://img.shields.io/badge/-ericfezhu-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/ericfezhu)
+[![goodreads Badge](https://img.shields.io/badge/-ericfzhu-372213?logo=goodreads&logoColor=white&style=flat)](https://goodreads.com/ericfzhu)
+[![Kaggle Badge](https://img.shields.io/badge/-ericzfhu-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/ericfzhu)
+[![LeetCode Badge](https://img.shields.io/badge/-ericfzhu-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/ericfzhu/)
+[![datacamp Badge](https://img.shields.io/badge/-ericfzhu-03EF62?logo=datacamp&logoColor=white&style=flat)](https://datacamp.com/profile/ericfzhu)
 
 
 ## My values
