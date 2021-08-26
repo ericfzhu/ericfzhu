@@ -31,13 +31,12 @@ I'm a student @unsw currently in pursuit of knowledge.
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-07405e?logo=sqlite&logoColor=white&style=flat)
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
+![Jupyter Badge](https://img.shields.io/badge/-Jupyter%20Lab-F37626?logo=jupyter&logoColor=white&style=flat)
 
 ## Tools that I use:
 
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat)
-![WebStorm Badge](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=flat)
 ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat)
 ![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
@@ -45,6 +44,7 @@ I'm a student @unsw currently in pursuit of knowledge.
 
 ## I'm interested in exploring:
 
+![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![Next.js Badge](https://img.shields.io/badge/-NextJs-000000?logo=next.js&style=flat)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
