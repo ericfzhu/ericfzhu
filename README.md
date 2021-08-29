@@ -10,6 +10,7 @@ I'm a student @unsw currently in pursuit of knowledge.
 [![goodreads Badge](https://img.shields.io/badge/-ericfzhu-372213?logo=goodreads&logoColor=white&style=flat)](https://goodreads.com/ericfzhu)
 [![Kaggle Badge](https://img.shields.io/badge/-ericzfhu-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/ericfzhu)
 [![LeetCode Badge](https://img.shields.io/badge/-ericfzhu-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/ericfzhu/)
+[![HackerRank Badge](https://img.shields.io/badge/-ericfzhu-00EA64?logo=hackerrank&logoColor=white&style=flat)](https://hackerrank.com/ericfzhu)
 [![datacamp Badge](https://img.shields.io/badge/-ericfzhu-03EF62?logo=datacamp&logoColor=white&style=flat)](https://datacamp.com/profile/ericfzhu)
 
 
