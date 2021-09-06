@@ -44,8 +44,6 @@ I'm a student @unsw currently in pursuit of knowledge.
 ![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![scikit-learn Badge](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![Jupyter Badge](https://img.shields.io/badge/-Jupyter%20Lab-F37626?logo=jupyter&logoColor=white&style=flat)
-
 
 #### Tools:
 
