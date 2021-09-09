@@ -25,13 +25,14 @@ I'm a student @unsw currently in pursuit of knowledge.
 
 ## Technical Skills:
 
-#### Programming:
+#### Languages:
 
 ![Python Badge](https://img.shields.io/badge/-Python-14354C?logo=python&logoColor=white&style=flat)
 ![C Badge](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
+![Octave Badge](https://img.shields.io/badge/-Octave-0790C0?logo=Octave&logoColor=white&style=flat)
 
 #### Database Management:
 
