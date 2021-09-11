@@ -1,6 +1,6 @@
 # Hi there!👋
 
-I'm a student @unsw currently in pursuit of knowledge.
+I'm a student @unsw and a lifelong learner.
 
 [//]: <> (Some of the badges here are just for my own motivation purposes.)
 
