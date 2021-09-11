@@ -34,7 +34,7 @@ I'm a student @unsw and a lifelong learner.
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
 ![Octave Badge](https://img.shields.io/badge/-Octave-0790C0?logo=Octave&logoColor=white&style=flat)
 
-#### Database Management:
+#### Databases:
 
 ![Postgres Badge](https://img.shields.io/badge/-Postgres-316192?logo=postgresql&logoColor=white&style=flat)
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-07405e?logo=sqlite&logoColor=white&style=flat)
