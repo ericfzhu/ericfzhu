@@ -47,16 +47,6 @@ I'm a student @unsw and a lifelong learner.
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat)
 
-
-#### Tools:
-
-![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat)
-![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat)
-![CLion IDEA Badge](https://img.shields.io/badge/-CLion-000000?logo=clion&logoColor=white&style=flat)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat)
-![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
-![Excel Badge](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
-
 ## I'm interested in exploring:
 
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
