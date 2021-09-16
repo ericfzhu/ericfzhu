@@ -38,6 +38,7 @@ I'm a student @unsw and a lifelong learner.
 
 ![Postgres Badge](https://img.shields.io/badge/-Postgres-316192?logo=postgresql&logoColor=white&style=flat)
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-07405e?logo=sqlite&logoColor=white&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 #### Data Science:
 
@@ -53,15 +54,9 @@ I'm a student @unsw and a lifelong learner.
 ![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat)
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Next.js Badge](https://img.shields.io/badge/-NextJs-000000?logo=next.js&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-![React Badge](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=2361DAFB&style=flat)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
