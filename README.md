@@ -47,6 +47,7 @@ I'm a student @unsw and a lifelong learner.
 ![scikit-learn Badge](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat)
+![Keras Badge](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white&style=flat)
 
 ## I'm interested in exploring:
 
