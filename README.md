@@ -40,7 +40,7 @@ I'm a student @unsw and a lifelong learner.
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-07405e?logo=sqlite&logoColor=white&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-#### Data Science:
+#### Data Science / Machine Learning:
 
 ![pandas Badge](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
