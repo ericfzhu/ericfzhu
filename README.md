@@ -5,7 +5,6 @@ I'm a student @unsw and a lifelong learner.
 [//]: <> (Some of the badges here are just for my own motivation purposes.)
 
 [![Linkedin Badge](https://img.shields.io/badge/-ericzhu98-0A66C2?logo=linkedin&style=flat)](https://linkedin.com/in/ericzhu98/)
-[![Twitter Badge](https://img.shields.io/badge/-ericfezhu-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/ericfezhu)
 [![Medium Badge](https://img.shields.io/badge/-ericfzhu-000000?logo=medium&logoColor=white&style=flat)](https://medium.com/@ericfzhu)
 [![goodreads Badge](https://img.shields.io/badge/-ericfzhu-372213?logo=goodreads&logoColor=white&style=flat)](https://goodreads.com/ericfzhu)
 [![Kaggle Badge](https://img.shields.io/badge/-ericzfhu-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/ericfzhu)
