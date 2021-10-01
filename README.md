@@ -1,4 +1,4 @@
-# Hi there!👋
+# Hi there! <img src="https://raw.githubusercontent.com/ericfzhu/ericfzhu/master/wave.gif" width="30px">
 
 I'm a student @unsw and a lifelong learner.
 
