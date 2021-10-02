@@ -38,14 +38,14 @@ I'm a student @unsw and a lifelong learner.
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-07405e?logo=sqlite&logoColor=white&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-#### Data Science / Machine Learning:
+<!-- #### Data Science / Machine Learning:
 
 ![pandas Badge](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![scikit-learn Badge](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat)
-![Keras Badge](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white&style=flat)
+![Keras Badge](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white&style=flat) -->
 
 ## I'm interested in exploring:
 
