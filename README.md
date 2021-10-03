@@ -51,7 +51,7 @@ I'm a student @unsw and a lifelong learner.
 
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
+![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
 ![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
 ![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat)
