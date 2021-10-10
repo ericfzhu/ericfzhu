@@ -14,13 +14,13 @@ I'm a student @unsw and a lifelong learner.
 
 ## My values
 
-:blue_heart: Loyalty
+:blue_heart: Love and have empathy
 
-:purple_heart: Love
+:purple_heart: Empower to do good
 
-:green_heart: Compassion
+:green_heart: Think and act with purpose
 
-:heart: Curiosity
+:heart: Be the change you seek
 
 ## Technical Skills:
 
