@@ -57,8 +57,6 @@ I'm a student @unsw and a lifelong learner.
 ![Haskell Badge](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat)
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
