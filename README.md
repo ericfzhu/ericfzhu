@@ -28,8 +28,8 @@ I'm a student @unsw and a lifelong learner.
 
 ![Python Badge](https://img.shields.io/badge/-Python-14354C?logo=python&logoColor=white&style=flat)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![C Badge](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![C Badge](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat)
 ![Octave Badge](https://img.shields.io/badge/-Octave-0790C0?logo=Octave&logoColor=white&style=flat)
 
 #### Databases:
@@ -50,6 +50,7 @@ I'm a student @unsw and a lifelong learner.
 ## I'm interested in exploring:
 
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
+![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?logo=dart&style=flat)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
 ![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
