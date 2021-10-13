@@ -14,7 +14,7 @@ I'm a student @unsw and a lifelong learner.
 
 ## My values
 
-:blue_heart: Love and have empathy
+:blue_heart: Love others and have empathy
 
 :purple_heart: Empower to do good
 
