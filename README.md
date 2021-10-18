@@ -30,13 +30,15 @@ I'm a student @unsw and a lifelong learner.
 ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![C Badge](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat)
+![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
 ![Octave Badge](https://img.shields.io/badge/-Octave-0790C0?logo=Octave&logoColor=white&style=flat)
 
+<!-- 
 #### Databases:
 
 ![Postgres Badge](https://img.shields.io/badge/-Postgres-316192?logo=postgresql&logoColor=white&style=flat)
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-07405e?logo=sqlite&logoColor=white&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) -->
 
 <!-- #### Data Science / Machine Learning:
 
@@ -49,7 +51,6 @@ I'm a student @unsw and a lifelong learner.
 
 ## I'm interested in exploring:
 
-![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
 ![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?logo=dart&style=flat)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
