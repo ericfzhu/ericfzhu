@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/ericfzhu/ericfzhu/master/wave.gif" width="30px">
+# Hey there! <img src="https://raw.githubusercontent.com/ericfzhu/ericfzhu/master/wave.gif" width="30px">
 
 I'm a student @unsw and a lifelong learner.
 
@@ -12,7 +12,7 @@ I'm a student @unsw and a lifelong learner.
 [![datacamp Badge](https://img.shields.io/badge/-ericfzhu-03EF62?logo=datacamp&logoColor=white&style=flat)](https://datacamp.com/profile/ericfzhu)
 
 
-## My values
+### My values
 
 :blue_heart: Love others and have empathy
 
@@ -22,9 +22,9 @@ I'm a student @unsw and a lifelong learner.
 
 :heart: Be the change you seek
 
-## Technical Skills:
-
-#### Languages:
+### I sometimes code using:
+<!-- 
+#### Languages: -->
 
 ![Python Badge](https://img.shields.io/badge/-Python-14354C?logo=python&logoColor=white&style=flat)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
@@ -49,7 +49,7 @@ I'm a student @unsw and a lifelong learner.
 ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat)
 ![Keras Badge](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white&style=flat) -->
 
-## I'm interested in exploring:
+### I'm interested in exploring:
 
 ![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?logo=dart&style=flat)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
