@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/ericfzhu/ericfzhu/master/wave.gif" width="30px">
 
-I'm a student @unsw and a lifelong learner.
+Welcome to my Github profile! You can also find me at these sites below :)
 
 [//]: <> (Some of the badges here are just for my own motivation purposes.)
 
