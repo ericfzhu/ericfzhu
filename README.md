@@ -32,6 +32,7 @@ Welcome to my Github profile! You can also find me at these sites below :)
 ![C Badge](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat)
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
 ![Octave Badge](https://img.shields.io/badge/-Octave-0790C0?logo=Octave&logoColor=white&style=flat)
+![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat)
 
 <!-- 
 #### Databases:
@@ -46,7 +47,6 @@ Welcome to my Github profile! You can also find me at these sites below :)
 ![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![scikit-learn Badge](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat)
 ![Keras Badge](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white&style=flat) -->
 
 ### I'm interested in exploring:
