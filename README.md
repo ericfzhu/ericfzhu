@@ -14,11 +14,11 @@ Welcome to my Github profile! You can also find me at these sites below :)
 
 ### My values
 
-:blue_heart: Love others and have empathy
+:blue_heart: Empathy and compassion for others
 
 :purple_heart: Empower to do good
 
-:green_heart: Think and act with purpose
+:green_heart: Think slow and act with purpose
 
 :heart: Be the change you seek
 
