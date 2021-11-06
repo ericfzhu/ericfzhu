@@ -2,16 +2,16 @@
 
 <img src="https://raw.githubusercontent.com/ericfzhu/ericfzhu/master/assets/banner.png">
 
-Welcome to my Github profile! You can also find me at these sites below :)
+<!-- Welcome to my Github profile! You can also find me at these sites below :) -->
 
 [//]: <> (Some of the badges here are just for my own motivation purposes.)
 
-[![Linkedin Badge](https://img.shields.io/badge/-ericfzhu-0A66C2?logo=linkedin&style=flat)](https://linkedin.com/in/ericfzhu/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-ericfzhu-0A66C2?logo=linkedin&style=flat)](https://linkedin.com/in/ericfzhu/)
 [![Medium Badge](https://img.shields.io/badge/-ericfzhu-000000?logo=medium&logoColor=white&style=flat)](https://medium.com/@ericfzhu)
 [![goodreads Badge](https://img.shields.io/badge/-ericfzhu-372213?logo=goodreads&logoColor=white&style=flat)](https://goodreads.com/ericfzhu)
 [![Kaggle Badge](https://img.shields.io/badge/-ericzfhu-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/ericfzhu)
 [![LeetCode Badge](https://img.shields.io/badge/-ericfzhu-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/ericfzhu/)
-[![datacamp Badge](https://img.shields.io/badge/-ericfzhu-03EF62?logo=datacamp&logoColor=white&style=flat)](https://datacamp.com/profile/ericfzhu)
+[![datacamp Badge](https://img.shields.io/badge/-ericfzhu-03EF62?logo=datacamp&logoColor=white&style=flat)](https://datacamp.com/profile/ericfzhu) -->
 
 
 ### My values
