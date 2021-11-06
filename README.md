@@ -1,4 +1,6 @@
-# Hey there! <img src="https://raw.githubusercontent.com/ericfzhu/ericfzhu/master/wave.gif" width="30px">
+<!-- # Hey there! <img src="https://raw.githubusercontent.com/ericfzhu/ericfzhu/master/assets/wave.gif" width="30px"> -->
+
+<img src="https://raw.githubusercontent.com/ericfzhu/ericfzhu/master/assets/banner.png">
 
 Welcome to my Github profile! You can also find me at these sites below :)
 
