@@ -13,7 +13,7 @@
 [![LeetCode Badge](https://img.shields.io/badge/-ericfzhu-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/ericfzhu/)
 [![datacamp Badge](https://img.shields.io/badge/-ericfzhu-03EF62?logo=datacamp&logoColor=white&style=flat)](https://datacamp.com/profile/ericfzhu) -->
 
-
+<!-- 
 ### My values
 
 :blue_heart: Empathy and compassion for others
@@ -22,7 +22,7 @@
 
 :green_heart: Think slow and act with purpose
 
-:heart: Be the change you seek
+:heart: Be the change you seek -->
 
 ### I sometimes code using:
 <!-- 
