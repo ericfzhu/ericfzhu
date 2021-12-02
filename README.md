@@ -63,8 +63,6 @@
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2048%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
