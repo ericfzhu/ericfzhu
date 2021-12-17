@@ -33,7 +33,6 @@
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat)
 ![C Badge](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat)
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
-![Octave Badge](https://img.shields.io/badge/-Octave-0790C0?logo=Octave&logoColor=white&style=flat)
 ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat)
 ![Lightning Badge](https://img.shields.io/badge/-Lightning-792EE5?logo=pytorch-lightning&logoColor=white&style=flat)
 <!-- ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) -->
