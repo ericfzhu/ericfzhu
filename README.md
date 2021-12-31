@@ -33,7 +33,6 @@
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat)
 ![C Badge](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat)
 ![Rust Badge](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
-![Octave Badge](https://img.shields.io/badge/-Octave-0790C0?logo=Octave&logoColor=white&style=flat)
 ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat)
 ![Lightning Badge](https://img.shields.io/badge/-Lightning-792EE5?logo=pytorch-lightning&logoColor=white&style=flat)
 <!-- ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) -->
@@ -67,21 +66,21 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               22 hrs 26 mins      █████████████████████░░░░   83.79% 
-JSON                     3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-yarn.lock                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
-.env file                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+Jupyter                  6 hrs 12 mins       ███████████████████░░░░░░   76.67% 
+JavaScript               1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
+Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 🐱‍💻 Projects: 
-demo                     15 hrs 31 mins      ██████████████░░░░░░░░░░░   57.95% 
-website                  10 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   38.83% 
-enaccess-maps-react-nativ42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
-form                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
-thefront-main            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+workspace                6 hrs 2 mins        ██████████████████░░░░░░░   74.75% 
+enaccess-maps-react-nativ1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
+machine-learning-engineer14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
+demo                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78%
 
 ```
 
 
- Last Updated on 11/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
