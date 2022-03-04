@@ -2,7 +2,7 @@
 
 ![](assets/banner.png)
 
-### I sometimes code using:
+### Sometimes I code using:
 
 ![Python Badge](https://img.shields.io/badge/-Python-14354C?logo=python&logoColor=white&style=flat)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
