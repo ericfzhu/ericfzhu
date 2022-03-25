@@ -7,6 +7,7 @@
 ![Python Badge](https://img.shields.io/badge/-Python-14354C?logo=python&logoColor=white&style=flat)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![C Badge](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat)
 ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat)
 ![Lightning Badge](https://img.shields.io/badge/-Lightning-792EE5?logo=pytorch-lightning&logoColor=white&style=flat)
