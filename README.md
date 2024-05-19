@@ -1,1 +1,3 @@
-[![NotesCast](notescast.png)](https://notescast.com/)
+[!["WEBSITE"](wallpaper.webp)](http://ericfzhu.com/)
+
+<!-- [![NotesCast](notescast.png)](https://notescast.com/) -->
