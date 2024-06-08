@@ -1,1 +1,1 @@
-[!["WEBSITE"](elevator.png)](http://ericfzhu.com/)
+[!["WEBSITE"](wallpaper.webp)](http://ericfzhu.com/)
